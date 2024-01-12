@@ -1,0 +1,28 @@
+Sigge Axelsson:  
+Tree-based methods (main method)
+Data analysis 
+Naive model
+
+
+Andreas Grönlund: 
+Discriminant analysis: LDA, QDA (main method)
+Conclusion
+
+
+Eskil Silfur: 
+K-nearest neighbor (main method)
+Evaluation and model selection 
+Conclusion
+Abstract
+
+
+Kaj Törngren Sato: 
+Logistic regression (main method)
+Organized LaTeX document with correct template, packages, appendix, figures, tables
+Abstract
+Introduction
+Model development
+Evaluation and model selection
+
+
+Overall good cooperation of all members. Everybody contributed and helped eachother with inputs.
