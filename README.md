@@ -1,3 +1,4 @@
+# Do we need more bikes?
 This project aims to develop a robust model for predicting whether the District Department of Transportation in Washington D.C. should increase the number of bikes available in the public bicycle-sharing system during specific hours. This prediction is based on various factors, including date and time, weather conditions, temperature, and other relevant features. The task is treated as a binary classification problem. The training dataset comprises 1600 instances of hourly bike rental features, and a test set of 400 instances will be provided for evaluation.
 
 Initially, an examination of the training data was conducted to identify any significant trends in bicycle demand from different perspectives:
