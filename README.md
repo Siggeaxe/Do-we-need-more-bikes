@@ -11,3 +11,7 @@ An analysis of outliers was performed using box plots to identify potential outl
 Feature selection was then carried out to determine the features to include in the model. The correlation with bike demand was examined, utilizing the chi-squared test for categorical values and the one-way ANOVA test for numerical features.
 
 Following feature selection, a random forest classifier was trained on the training data split of the dataset using the scikit-learn library. A hyperparameter study was undertaken to identify optimal parameters. This study involved a grid search of max_features and min_samples_leaf, with evaluation performed using a 5-fold stratified cross-validation. The F1-score metric was employed due to the dataset's significant imbalance.
+
+During the evaluation of the production dataset, received after the submission of the project, the random forest model demonstrated the following performance
+- Accuracy: 0.912
+- F1-score: 0.729
